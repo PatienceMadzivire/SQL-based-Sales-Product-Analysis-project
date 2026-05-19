@@ -9,7 +9,7 @@ Identify top performing products and explain why using SQL queries.
 
 ## Workflow
 1. **Cleaning** – Handle missing values, standardize categories.
-2. **Analysis** – Calculate revenue, profit, and regional performance.
+2. **Analysis** – Calculate revenue and regional performance.
 3. **Insights** – Identify top products, categories, and monthly trends.
 
 ## Deliverables
