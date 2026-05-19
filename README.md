@@ -14,7 +14,7 @@ Identify top performing products and explain why using SQL queries.
 
 ## Deliverables
 - SQL scripts (`sql-based-sales-product-analysis-project.sql`)
-- Dataset (`/data.csv`)
+- Dataset (`train.csv`)
 - Example queries for dashboards
 
 ## Findings
